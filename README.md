@@ -4,8 +4,8 @@ This repo contains font faces used by edX applications. Use it, as well as the e
 such as Google Fonts (which is not available in all locales).
 
 ## Current Fonts
-* [Montserrat](http://clintonb.github.io/edx-fonts/montserrat)
-* [Open Sans](http://clintonb.github.io/edx-fonts/open-sans)
+* [Montserrat](http://edx.github.io/edx-fonts/montserrat)
+* [Open Sans](http://edx.github.io/edx-fonts/open-sans)
 
 ## Usage
 The simplest method to use the fonts is to use the supplied CSS on the edX CDN. You can either link to the CSS file 
