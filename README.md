@@ -13,11 +13,11 @@ from your HTML or import it in your CSS.
 
 *From HTML*
 
-    <link rel="stylesheet" type="text/css" href="https://files.edx.org/fonts/open-sans/open-sans.css">
+    <link rel="stylesheet" type="text/css" href="https://files.edx.org/fonts/edx-fonts/open-sans/open-sans.css">
 
 *From CSS*
 
-    @import url("https://files.edx.org/fonts/open-sans/open-sans.css");
+    @import url("https://files.edx.org/fonts/edx-fonts/open-sans/open-sans.css");
  
 ## Building the CSS
 A script is included to compile the SASS to CSS. If you would like to use your own static file server or serve the files
